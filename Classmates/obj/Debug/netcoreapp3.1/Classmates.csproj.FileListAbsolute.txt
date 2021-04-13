@@ -1,0 +1,13 @@
+C:\Users\jms_s\source\repos\Classmates\Classmates\obj\Debug\netcoreapp3.1\Classmates.csprojAssemblyReference.cache
+C:\Users\jms_s\source\repos\Classmates\Classmates\obj\Debug\netcoreapp3.1\Classmates.AssemblyInfoInputs.cache
+C:\Users\jms_s\source\repos\Classmates\Classmates\obj\Debug\netcoreapp3.1\Classmates.AssemblyInfo.cs
+C:\Users\jms_s\source\repos\Classmates\Classmates\obj\Debug\netcoreapp3.1\Classmates.csproj.CoreCompileInputs.cache
+C:\Users\jms_s\source\repos\Classmates\Classmates\bin\Debug\netcoreapp3.1\Classmates.exe
+C:\Users\jms_s\source\repos\Classmates\Classmates\bin\Debug\netcoreapp3.1\Classmates.deps.json
+C:\Users\jms_s\source\repos\Classmates\Classmates\bin\Debug\netcoreapp3.1\Classmates.runtimeconfig.json
+C:\Users\jms_s\source\repos\Classmates\Classmates\bin\Debug\netcoreapp3.1\Classmates.runtimeconfig.dev.json
+C:\Users\jms_s\source\repos\Classmates\Classmates\bin\Debug\netcoreapp3.1\Classmates.dll
+C:\Users\jms_s\source\repos\Classmates\Classmates\bin\Debug\netcoreapp3.1\Classmates.pdb
+C:\Users\jms_s\source\repos\Classmates\Classmates\obj\Debug\netcoreapp3.1\Classmates.dll
+C:\Users\jms_s\source\repos\Classmates\Classmates\obj\Debug\netcoreapp3.1\Classmates.pdb
+C:\Users\jms_s\source\repos\Classmates\Classmates\obj\Debug\netcoreapp3.1\Classmates.genruntimeconfig.cache
